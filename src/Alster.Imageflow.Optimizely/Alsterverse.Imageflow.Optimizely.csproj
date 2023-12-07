@@ -11,7 +11,7 @@
     <PackageIcon>alster_logo.png</PackageIcon>
     <Authors>Alster</Authors>
     <Company>Alster Digital AB</Company>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/alsterverse/Alsterverse.Imageflow.Optimizely</RepositoryUrl>
     <PackageProjectUrl>https://github.com/alsterverse/Alsterverse.Imageflow.Optimizely</PackageProjectUrl>
